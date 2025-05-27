@@ -37,5 +37,5 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 ## İletişim
 
 Gmail: bektas.sari@gmail.com
-
+* Her türlü bilgi ve öreri için benimle iletişime geçebilirsiniz. 
 
