@@ -1,4 +1,4 @@
-# EmlakBul - Modern Emlak Çözümleri (Deneme amaçlı tasarlanmıştır)
+# EmlakBul - Modern Emlak Çözümleri
 
 EmlakBul, hayalinizdeki evi kolayca bulabilmeniz için tasarlanmış modern bir emlak web sitesidir. Kullanıcı dostu arayüzü, duyarlı tasarımı ve etkileyici özellikleriyle emlak arayışınızı zahmetsiz hale getirir.
 
